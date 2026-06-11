@@ -9,6 +9,10 @@ public class mensaje {
 		System.out.print("MENSAJE 1 DE LA RAMA 1");
 		
 		System.out.print("MENSAJE 2 DE LA RAMA 1");
+		
+		System.out.print("MENSAJE 1 DE LA RAMA 2");
+		
+		System.out.print("MENSAJE 2 DE LA RAMA 2");
 	}
 
 }
